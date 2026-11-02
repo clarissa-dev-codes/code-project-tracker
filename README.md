@@ -38,7 +38,4 @@ Your boards write directly to your local project folder root:
 
 ## License
 
-MIT License. Developed by [clarissa-dev-codes](https://github.com).
-=======
-# code-project-tracker
->>>>>>> aa4f756ac4b849fd87e845aefd1697eef510c0f4
+MIT License. Developed by [clarissa-dev-codes](https://github.com/clarissa-dev-codes).
