@@ -4,6 +4,10 @@
   "description": "Tracks bugs, tasks, and code metrics inside your workspace",
   "version": "1.0.0",
   "publisher": "clarissa-dev-codes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clarissa-dev-codes/code-project-tracker"
+  },
   "icon": "media/icon-store.png",
   "engines": {
     "vscode": "^1.90.0"
