@@ -1,0 +1,13 @@
+<svg xmlns="http://w3.org" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top-level Code Symbol Header Brackets -->
+    <path d="M10 6L7 9l3 3M14 6l3 3-3 3" />
+    
+    <!-- Outer Dashboard Window Container -->
+    <rect x="2" y="3" width="20" height="18" rx="2" />
+    
+    <!-- Internal Horizontal Kanban Title Splitter -->
+    <path d="M2 8h20" />
+    
+    <!-- Vertical Kanban Column Divider Lanes -->
+    <path d="M8 8v13M16 8v13" />
+</svg>
