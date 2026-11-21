@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Code Project Tracker
 
 Code Project Tracker is a theme-matched developer dashboard integrated directly into your editor workspace. Manage software tasks, prioritize bugs, and structure milestones without interrupting your coding flow.
